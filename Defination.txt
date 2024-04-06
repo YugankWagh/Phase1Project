@@ -1,0 +1,21 @@
+Virtual flight simulation app
+
+Empathy:- Getting to know what users want, understanding the needs of the users
+
+Define:- Defining the problem in a user-centric way.
+
+Ideate:- This phase focuses on creative idea generation. Ideas for possible solutions.
+
+Prototype:-  Giving a Sample output. It could be in the form of a sketch, flow diagrams etc
+
+Test:- It is a phase where we can see what works and what not 
+
+Who can use this application
+pre pilots
+intrest in flying a plane 
+
+Challenges:- 
+challenges that we face while making this application:- we might face to put all the componentes in a plane and actually make it work
+Ideation:- we need a library 
+	   Prototype Phase Score, Scene, multiplayer or single player Filght controls 
+Testing phase:- cross check and trial run 
